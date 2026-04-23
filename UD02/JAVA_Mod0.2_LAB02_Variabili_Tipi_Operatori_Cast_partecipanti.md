@@ -3,7 +3,7 @@
 ## 1. Obiettivi
 In questo laboratorio imparerai a:
 
-- dichiarare e inizializzare variabili in Java;
+- dichiarare e inizializzare variabili in Java;F
 - distinguere i principali tipi primitivi (`int`, `double`, `char`, `boolean`);
 - usare gli operatori aritmetici fondamentali;
 - capire la differenza tra divisione intera e divisione reale;
@@ -97,13 +97,13 @@ In questo laboratorio lavorerai in un solo file Java.
 Crea questa cartella, se non esiste ancora:
 
 ```text
-labs/lab02/src
+labs/lab02/src/src/src
 ```
 
 All'interno crea il file:
 
 ```text
-labs/lab02/srcVariabiliOperatoriCast.java
+labs/lab02/src/src/srcVariabiliOperatoriCast.java
 ```
 
 ## 6. Attività guidata
@@ -197,7 +197,7 @@ java VariabiliOperatoriCast
 Prepara il file di evidenza:
 
 ```text
-labs/lab02/srcdocs/evidence_lab02.md
+labs/lab02/src/src/srcdocs/evidence_lab02.md
 ```
 
 Nel file di evidenza inserisci:
