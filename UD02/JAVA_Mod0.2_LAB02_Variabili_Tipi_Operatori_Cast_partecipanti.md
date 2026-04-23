@@ -3,7 +3,7 @@
 ## 1. Obiettivi
 In questo laboratorio imparerai a:
 
-- dichiarare e inizializzare variabili in Java;F
+- dichiarare e inizializzare variabili in Java;
 - distinguere i principali tipi primitivi (`int`, `double`, `char`, `boolean`);
 - usare gli operatori aritmetici fondamentali;
 - capire la differenza tra divisione intera e divisione reale;
