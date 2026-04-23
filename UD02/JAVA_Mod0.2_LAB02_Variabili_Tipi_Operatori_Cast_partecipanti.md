@@ -97,13 +97,13 @@ In questo laboratorio lavorerai in un solo file Java.
 Crea questa cartella, se non esiste ancora:
 
 ```text
-labs/lab02/src/src/src
+labs/lab02/src/
 ```
 
 All'interno crea il file:
 
 ```text
-labs/lab02/src/src/srcVariabiliOperatoriCast.java
+labs/lab02/src/VariabiliOperatoriCast.java
 ```
 
 ## 6. Attività guidata
@@ -197,7 +197,7 @@ java VariabiliOperatoriCast
 Prepara il file di evidenza:
 
 ```text
-labs/lab02/src/src/srcdocs/evidence_lab02.md
+labs/lab02/src/docs/evidence_lab02.md
 ```
 
 Nel file di evidenza inserisci:
