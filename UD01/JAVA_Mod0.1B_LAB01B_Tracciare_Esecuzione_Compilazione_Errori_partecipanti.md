@@ -50,7 +50,7 @@ All'interno del monorepo del corso crea, se non esiste già, questa struttura:
 
 ```text
 labs/
-  lab01b_tracciare_esecuzione/
+  lab01b/
     README.md
     docs/
     src/
@@ -66,7 +66,7 @@ Dentro `docs/` salverai le evidenze.
 Spostati nella cartella del laboratorio:
 
 ```bash
-cd labs/lab01b_tracciare_esecuzione/src
+cd labs/lab01b/src
 ```
 
 Controlla dove ti trovi e quali file sono presenti:
@@ -500,7 +500,7 @@ Nel file evidenza spiega con parole tue:
 Crea il file:
 
 ```text
-labs/lab01b_tracciare_esecuzione/docs/evidence_lab01b.md
+labs/lab01b/docs/evidence_lab01b.md
 ```
 
 Usa questa struttura:
@@ -545,7 +545,7 @@ Scrivi che cosa hai compreso meglio rispetto al Lab01.
 Al termine del laboratorio, nel repository devono essere presenti almeno:
 
 ```text
-labs/lab01b_tracciare_esecuzione/
+labs/lab01b/
   docs/
     evidence_lab01b.md
   src/
