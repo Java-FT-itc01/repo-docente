@@ -311,7 +311,7 @@ Salva il file.
 Nel terminale integrato di VS Code spostati nella cartella del file:
 
 ```bash
-cd labs/lab01_algoritmo_programma_compilazione/src
+cd labs/lab01/src
 ```
 
 Verifica la presenza del file:
