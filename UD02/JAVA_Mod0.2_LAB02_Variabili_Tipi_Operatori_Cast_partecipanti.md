@@ -197,7 +197,7 @@ java VariabiliOperatoriCast
 Prepara il file di evidenza:
 
 ```text
-labs/lab02/src/docs/evidence_lab02.md
+labs/lab02/docs/evidence_lab02.md
 ```
 
 Nel file di evidenza inserisci:
